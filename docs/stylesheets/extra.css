@@ -1,3 +1,14 @@
+/* Bestaande CSS voor fonts, badges en andere componenten */
+body{
+  font-family: "ROsanswebtextregular" !important;
+  src: url("fonts/ROsanswebtextregular.woff") format('truetype');
+}
+
+@font-face {
+  font-family: "ROsanswebtextregular";
+  src: url("fonts/ROsanswebtextregular.woff") format('truetype');
+}
+
 .float-container .float-child p{
   color: #154273
 }
@@ -307,4 +318,3 @@
 [dir=ltr] .md-typeset .float-container ol, [dir=ltr] .md-typeset .float-container ul {
   margin-left: 0;
 }
-*/
