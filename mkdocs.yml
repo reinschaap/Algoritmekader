@@ -44,7 +44,7 @@ nav:
     - Over het algoritmekader:
         - Overzicht: overhetalgoritmekader/index.md
         - Definities: overhetalgoritmekader/definities.md
-        - Contributie: overhetalgoritmekader/CONTRIBUTING.md
+        - Bijdragen aan het Algoritmekader: overhetalgoritmekader/CONTRIBUTING.md
     - Levenscyclus:
         - Overzicht: levenscyclus/index.md
         - Probleemanalyse: levenscyclus/probleemanalyse.md
@@ -61,12 +61,12 @@ nav:
         - Data: onderwerpen/data/index.md
         - Duurzaamheid: onderwerpen/duurzaamheid/index.md
         - Fundamentele rechten: onderwerpen/fundamentele-rechten/index.md
+        - Governance: onderwerpen/governance/index.md
         - Mensenlijke controle: onderwerpen/menselijke-controle/index.md
         - Privacy en gegevensbescherming: onderwerpen/privacy-en-gegevensbescherming/index.md
         - Publieke inkoop: onderwerpen/publieke-inkoop/index.md
         - Technische robuustheid en veiligheid: onderwerpen/technische-robuustheid-en-veiligheid/index.md
         - Transparantie: onderwerpen/transparantie/index.md
-        - Transparantie: bouwblokken/transparantie/index.md
     - Rollen:
         - Overzicht: rollen/index.md
         - Aanbestedingsjurist: rollen/aanbestedingsjurist.md
