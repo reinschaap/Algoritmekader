@@ -24,7 +24,7 @@ hide:
 
 ## Maatregel
 
-Bepaal de archiefbescheiden, de bewaartermijnen, beperkingen voor openbaarheid en hoe archiefbescheiden duurzaam toegankelijk worden gemaakt. 
+Bepaal de archiefbescheiden, de bewaartermijnen, beperkingen voor openbaarheid, vernietigingsprocedure en hoe archiefbescheiden duurzaam toegankelijk worden gemaakt. 
 
 
 ## Toelichting
