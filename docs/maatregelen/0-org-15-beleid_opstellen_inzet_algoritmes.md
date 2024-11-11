@@ -23,10 +23,13 @@ Stel beleid op voor een verantwoorde inzet van algoritmes binnen de organisatie.
 
 ## Toelichting
 Een duidelijk beleid van organisaties over de inzet van algoritmes, draagt bij aan het gaan voldoen als organisatie aan de voorwaarden om dit op een verantwoorde manier te doen.
+
 Het is van belang dat in het beleidsdocument is beschreven hoe algoritmes bijdragen aan het realiseren van de organisatiedoelstellingen.
 Er wordt beschreven welke stappen worden gezet om algoritmes op een verantwoorde wijze in te gaan zetten. 
+
 Er is beschreven wat moet worden toegepast om te voldoen aan de vereisten die gelden voor algoritmes. 
 Het beleid bevat een communicatiestrategie over hoe burgers worden geïnformeerd over de inzet van algoritmes door de organisatie en welke kanalen hiervoor kunnen worden gebruikt. 
+
 Er is beschreven welke informatie over welke type algoritmes wordt gedeeld met betrokkenen als algoritmes worden ingezet door de organisatie. 
 Dit beleidsdocument is beschikbaar voor alle geïnteresseerden. 
 
