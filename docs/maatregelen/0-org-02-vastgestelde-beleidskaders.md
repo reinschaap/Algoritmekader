@@ -1,7 +1,7 @@
 ---
-title: Bepaal het beleid voor het ontwikkelen, inkopen en gebruiken van algoritmes
+title: Pas vastgestelde beleidskaders toe.
 id: urn:nl:ak:mtr:org-02
-toelichting: Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen.
+toelichting: Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes.
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - aia-11-systeem-voor-kwaliteitsbeheer
@@ -13,7 +13,7 @@ vereiste:
 levenscyclus:
 - organisatieverantwoordelijkheden
 onderwerp:
-- governance 
+- governance
 rollen:
 - projectleider
 - beleid-en-advies
@@ -27,7 +27,7 @@ hide:
 
 ## Maatregel
 
-Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes en AI-systemen.
+Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nageleefd bij het ontwikkelen, inkopen en gebruiken van algoritmes.
 
 ## Toelichting
 - Interne vastgestelde beleidskaders moeten worden toegepast bij het ontwikkelen, inkopen of gebruiken van algoritmes en AI-systemen.
@@ -41,7 +41,7 @@ Pas vastgestelde interne beleidskaders toe en maak aantoonbaar dat deze zijn nag
 <!-- list_vereisten_on_maatregelen_page -->
 
 ## Risico
-De in te zetten algoritmes of AI-systemen voldoen niet aan vastgestelde beleidskaders. 
+De in te zetten algoritmes voldoen niet aan vastgestelde beleidskaders. 
 
 ## Bronnen
 * [Onderzoekskader Algoritmes Auditdienst Rijk, SV.8](https://www.rijksoverheid.nl/documenten/rapporten/2023/07/11/onderzoekskader-algoritmes-adr-2023)
