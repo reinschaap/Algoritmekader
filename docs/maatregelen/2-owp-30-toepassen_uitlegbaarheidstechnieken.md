@@ -1,5 +1,5 @@
 ---
-title: Stel vast welke uitlegbaarheidstechnieken moeten worden toegepast. 
+title: Pas uitlegbaarheidstechnieken toe.
 id: urn:nl:ak:mtr:owp-07
 toelichting: Uitlegbaarheidstechnieken dragen bij aan het transparant maken van de werking van een algoritme.
 vereiste:
@@ -21,13 +21,11 @@ hide:
 <!-- tags -->
 
 ## Maatregel
-Stel vast welke uitlegbaarheidstechnieken moeten worden toegepast voor het algoritme
+Pas uitlegbaarheidstechnieken toe.
 
 ## Toelichting
 Uitlegbaarheidstechnieken dragen bij aan het transparant maken van de werking van een algoritme.
 De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van rekenregels kun je namelijk precies uitleggen hoe deze tot een beslissing komen. Maar complexe AI-systemen kunnen een black box zijn.  Het is dan onduidelijk hoe deze systemen beslissingen maken. 
-
-Het is belangrijk om een type algoritme te kiezen dat wat uitlegbaarheid passende is gezien de context waarin deze wordt ingezet. Zorg dat de verschillende afwegingen in de keuze voor het gebruik van een type algoritme worden vastgelegd.
 
 Er zijn veel technieken vindbaar om de werking en keuzes van een algoritme beter bloot te leggen. De techniek en de mate waarin uitlegbaarheid mogelijk is, is afhankelijk van het type algoritme waarvoor gekozen wordt. Het is belangrijk de betrokken partijen samen vastleggen welke methodiek moet worden toegepast. Onder bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek. 
 
