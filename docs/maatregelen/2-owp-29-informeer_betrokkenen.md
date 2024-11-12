@@ -64,8 +64,12 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 [WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/)
 
 [Handreiking WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/Handreiking%20Wmo%20Voorspelmodel%20juli%202024.pdf)
+
 [Maatwerkscan UWV](https://www.uwv.nl/nl/over-uwv/organisatie/algoritmeregister-uwv/maatwerkscan)
+
 [Slimme keuzehulp aangifte internetoplichting: Ik heb iets gekocht, maar niets ontvangen](https://aangifte.politie.nl/iaai-preintake/#/)
+
+[Chatbot gemeente Hillegom](https://www.hillegom.nl/chatbot)
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 
