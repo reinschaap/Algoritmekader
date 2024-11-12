@@ -1,7 +1,7 @@
 ---
-title: Stel vast welke belanghebbenden geïnformeerd moeten worden en welke informatie zij nodig hebben. 
+title: Stel vast welke betrokkenen geïnformeerd moeten worden en welke informatie zij nodig hebben. 
 id: urn:nl:ak:mtr:pba-04
-toelichting: Het is van belang dat belanghebbenden worden geïnformeerd over de ontwikkeling en inzet van algoritmes binnen de organisatie. 
+toelichting: Het is van belang dat betrokkenen worden geïnformeerd over de ontwikkeling en inzet van algoritmes binnen de organisatie. 
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - aia-08-transparantie-aan-gebruikersverantwoordelijken
@@ -24,7 +24,7 @@ hide:
 
 ## Maatregel
 <!-- Vul hier een omschrijving in van wat deze maatregel inhoudt. -->
-Stel vast welke belanghebbenen geïnformeerd moeten worden over de ontwikkeling en inzet van het algoritme en welke informatie zij nodig hebben. 
+Stel vast welke betrokkenen geïnformeerd moeten worden over de ontwikkeling en inzet van het algoritme en welke informatie zij nodig hebben. 
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
@@ -61,7 +61,8 @@ Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwi
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
-
+[WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/)
+[Handreiking WMO voorspelmodel](https://wmovoorspelmodel.vng.nl/Handreiking%20Wmo%20Voorspelmodel%20juli%202024.pdf)
 
 Heb je een voorbeeld of best practice, laat het ons weten via [algoritmes@minbzk.nl](mailto:algoritmes@minbzk.nl)
 
