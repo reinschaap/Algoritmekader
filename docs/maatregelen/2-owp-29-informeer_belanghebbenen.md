@@ -4,6 +4,8 @@ id: urn:nl:ak:mtr:pba-04
 toelichting: Het is van belang dat belanghebbenden worden geïnformeerd over de ontwikkeling en inzet van algoritmes binnen de organisatie. 
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
+- Aiai-08- Transparantie in ontwerp voor hoog-risico AI
+-	aia-30- Transparantieverplichtingen
 levenscyclus: 
 - ontwerp
 - ontwikkel
@@ -26,7 +28,6 @@ Stel vast welke belanghebbenen geïnformeerd moeten worden over de ontwikkeling 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
 -	Welke informatie over algoritmes relevant, is verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is.
--	Maak in het vaststellen van de informatiebehoeft onderscheid tussen transparantie, uitlegbaarheid en interpreteerbaarheid. 
 
 Stel bijvoorbeeld de volgende vragen:
 
@@ -38,6 +39,7 @@ Stel bijvoorbeeld de volgende vragen:
 | Wanneer wordt deze informatie gebruikt? | Ga na in welke fase van de levenscyclus de gewenste informatie over de werking of inzet van het algoritme wordt gebruikt. Hoe verschilt de informatiebehoefte in elke fase van de levenscyclus? |
 | Wie is er verantwoordelijk voor de informatieverstrekking? | Bepaal wie er informatie over het algoritme moet ophalen, en wie er voor die informatie kan zorgen. |
 
+- Maak in het vaststellen van de informatiebehoeft onderscheid tussen transparantie, uitlegbaarheid en interpreteerbaarheid. 
 -	Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. 
 -	Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie.
 -	Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. 
