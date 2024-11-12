@@ -33,7 +33,7 @@ Stel vast welke belanghebbenen geïnformeerd moeten worden over de ontwikkeling 
 
 Stel bijvoorbeeld de volgende vragen:
 
-| Vragen	| Acties die je kan ondernemen |
+| Vragen	|Acties die je kan ondernemen |
 | :-----------------|---------------|
 | Wie heeft informatie nodig over het ontwikkelen en gebruiken van algoritmes? |	Stel vast welke stakeholder(s) binnen of buiten de organisatie iets over het algoritme wil of zou moeten weten. |
 | Wat voor informatie voor algoritmes heeft deze betrokken partij nodig? | Toets dit ook bij vastgesteld beleid. 	Ga na wat de doelgroep moet weten over de werking of inzet van het algoritme. Bepaal om welk technisch niveau dit gaat. |
