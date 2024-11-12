@@ -28,9 +28,9 @@ Stel vast welke betrokkenen geïnformeerd moeten worden over de ontwikkeling en 
 
 ## Toelichting 
 <!-- Geef hier een toelichting van deze maatregel -->
--	Welke informatie over algoritmes relevant, is verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is.
+Welke informatie over algoritmes relevant, is verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is.
 
-- Stel bijvoorbeeld de volgende vragen:
+Stel bijvoorbeeld de volgende vragen:
 
 | Vragen	|Acties die je kan ondernemen |
 | :-----------------|---------------|
@@ -40,10 +40,13 @@ Stel vast welke betrokkenen geïnformeerd moeten worden over de ontwikkeling en 
 | Wanneer wordt deze informatie gebruikt? | Ga na in welke fase van de levenscyclus de gewenste informatie over de werking of inzet van het algoritme wordt gebruikt. Hoe verschilt de informatiebehoefte in elke fase van de levenscyclus? |
 | Wie is er verantwoordelijk voor de informatieverstrekking? | Bepaal wie er informatie over het algoritme moet ophalen, en wie er voor die informatie kan zorgen. |
 
-- Maak in het vaststellen van de informatiebehoeft onderscheid tussen transparantie, uitlegbaarheid en interpreteerbaarheid. 
--	Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. 
--	Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie.
--	Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. 
+Maak in het vaststellen van de informatiebehoeft onderscheid tussen transparantie, uitlegbaarheid en interpreteerbaarheid. 
+
+Bepaal vervolgens aan de hand van de levenscyclus wanneer, welke informatie wanneer beschikbaar moet worden gesteld. 
+
+Stel vast wie verantwoordelijk is voor het opstellen of het leveren van een bijdrage aan deze informatie.
+
+Stel een communicatieplan op over de ontwikkeling en gebruik van het algoritme. 
 
 ## Bijbehorende vereiste(n)
 <!-- Hier volgt een lijst met vereisten op basis van de in de metadata ingevulde vereiste -->
