@@ -27,12 +27,13 @@ Stel vast welke uitlegbaarheidstechnieken moeten worden toegepast voor het algor
 - Het is belangrijk om een type algoritme te kiezen dat wat uitlegbaarheid passende is gezien de context waarin deze wordt ingezet. Zorg dat de verschillende afwegingen in de keuze voor het gebruik van een type algoritme worden vastgelegd.
  
 - Er zijn veel technieken vindbaar om de werking en keuzes van een algoritme beter bloot te leggen. De techniek en de mate waarin uitlegbaarheid mogelijk is, is afhankelijk van het type algoritme waarvoor gekozen wordt. Onderstaande lijst geeft een aantal hulpmiddelen die handvatten bieden voor ontwikkelaars om de juiste methodes te vinden en toe te passen.
-  •	Tools voor design: UXAI: Design Strategy 
-  •	Toolkit voor implementatie: https://xaitk.org/ 
-  •	XAI as a service (IBM): https://research.ibm.com/blog/ai-explainability-360 
-  •	Tools voor design (Google): https://pair.withgoogle.com/ 
-  •	Paper over (evaluatie) toolkits; https://www.ijcai.org/proceedings/2023/0747.pdf 
-  •	Overzicht metrieken XAI; https://dl.acm.org/doi/pdf/10.1145/3583558 
+|-----------------------------|
+|Tools voor design: UXAI: Design Strategy|
+|Toolkit voor implementatie: https://xaitk.org/| 
+|XAI as a service (IBM): https://research.ibm.com/blog/ai-explainability-360| 
+|Tools voor design (Google): https://pair.withgoogle.com/| 
+|Paper over (evaluatie) toolkits; https://www.ijcai.org/proceedings/2023/0747.pdf| 
+|Overzicht metrieken XAI; https://dl.acm.org/doi/pdf/10.1145/3583558| 
 
 **Veiligheid**
 Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven.   Houd rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures. 
