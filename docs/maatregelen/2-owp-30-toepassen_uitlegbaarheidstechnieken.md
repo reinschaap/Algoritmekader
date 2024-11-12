@@ -30,7 +30,7 @@ Het is belangrijk om een type algoritme te kiezen dat wat uitlegbaarheid passend
  
 Er zijn veel technieken vindbaar om de werking en keuzes van een algoritme beter bloot te leggen. De techniek en de mate waarin uitlegbaarheid mogelijk is, is afhankelijk van het type algoritme waarvoor gekozen wordt. Onderstaande lijst geeft handvatten bom de juiste methodes te vinden en toe te passen.
 
-|--------------------|
+|--------------------|----------|
 |Tools voor design: UXAI: Design Strategy|
 |Toolkit voor implementatie: https://xaitk.org/| 
 |XAI as a service (IBM): https://research.ibm.com/blog/ai-explainability-360| 
