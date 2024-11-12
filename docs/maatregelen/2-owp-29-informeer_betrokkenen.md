@@ -30,7 +30,7 @@ Stel vast welke betrokkenen geïnformeerd moeten worden over de ontwikkeling en 
 <!-- Geef hier een toelichting van deze maatregel -->
 -	Welke informatie over algoritmes relevant, is verschilt per partij. Het is van belang om deze partijen in beeld te brengen en vast te stellen welke informatie voor hen relevant is.
 
-Stel bijvoorbeeld de volgende vragen:
+- Stel bijvoorbeeld de volgende vragen:
 
 | Vragen	|Acties die je kan ondernemen |
 | :-----------------|---------------|
