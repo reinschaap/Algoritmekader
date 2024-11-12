@@ -5,7 +5,7 @@ toelichting: Het is van belang dat belanghebbenden worden geïnformeerd over de 
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
 - aia-08-transparantie-aan-gebruikersverantwoordelijken
--	aia-28-transparantieverplichtingen-richting-natuurlijke-personen
+- aia-28-transparantieverplichtingen-richting-natuurlijke-personen
 levenscyclus: 
 - ontwerp
 - ontwikkel
