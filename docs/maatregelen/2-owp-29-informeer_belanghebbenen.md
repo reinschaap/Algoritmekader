@@ -42,8 +42,11 @@ Stel bijvoorbeeld de volgende vragen:
 | Wie is er verantwoordelijk voor de informatieverstrekking? | Bepaal wie er informatie over het algoritme moet ophalen, en wie er voor die informatie kan zorgen. |
 
 Bij het vaststellen van de informatiebehoefte van een betrokken partij is het belangrijk om na te denken in welke mate de betrokken partij behoefte heeft aan informatie over:
+
 •	Communicatie naar betrokken partijen over het gebruik van een algoritme
+
 •	Mate van technische uitlegbaarheid van het algoritme
+
 •	Interpreteerbaarheid van technische processen van het algoritme
 
 ## Bijbehorende vereiste(n)
