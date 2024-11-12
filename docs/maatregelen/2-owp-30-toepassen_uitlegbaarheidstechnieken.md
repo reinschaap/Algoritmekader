@@ -32,9 +32,11 @@ Het is belangrijk om een type algoritme te kiezen dat wat uitlegbaarheid passend
 Er zijn veel technieken vindbaar om de werking en keuzes van een algoritme beter bloot te leggen. De techniek en de mate waarin uitlegbaarheid mogelijk is, is afhankelijk van het type algoritme waarvoor gekozen wordt. Het is belangrijk de betrokken partijen samen vastleggen welke methodiek moet worden toegepast. Onder bronnen kan informatie worden geraadpleegd die helpen bij het vinden van de juiste methodiek. 
 
 **Veiligheid**
+
 Vanuit veiligheidsoverwegingen kan bij specifieke algoritmes besloten worden om bepaalde informatie over de werking van een algoritme niet aan iedereen vrij te geven.   Houd rekening met mogelijke risico’s op aanvallen die kunnen ontstaan door het gebruik van uitlegbaarheidstechnieken, zoals omschreven in: A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures. 
 
 **Transparency by design** 
+
 Een manier om transparantie te bewerkstelligen is door het algoritme volgens het transparency-by-design gedachtegoed te ontwikkelen. Dit gedachtegoed is geïnspireerd door het privacy by design raamwerk. Door dit gedachtegoed toe te passen kan je ervoor zorgen dat transparantie in het volledige ontwikkelproces, en dus ook bij het ontwerp, wordt meegenomen. 
 
 ## Bijbehorende vereiste(n)
