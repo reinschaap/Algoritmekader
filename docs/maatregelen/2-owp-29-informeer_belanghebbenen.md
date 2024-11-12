@@ -4,7 +4,7 @@ id: urn:nl:ak:mtr:pba-04
 toelichting: Het is van belang dat belanghebbenden worden geïnformeerd over de ontwikkeling en inzet van algoritmes binnen de organisatie. 
 vereiste:
 - awb-01-zorgvuldigheidsbeginsel
-- aia-08-transparantie-aan-gebruikersverantwoordelijken
+- aia-08-transparantie_aan_gebruikersverantwoordelijken
 -	aia-28-transparantieverplichtingen_richting_natuurlijke_personen
 levenscyclus: 
 - ontwerp
