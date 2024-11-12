@@ -28,9 +28,9 @@ De keuze voor het type algoritme bepaalt hoe transparant je kunt zijn. Van reken
 
 Het is belangrijk om een type algoritme te kiezen dat wat uitlegbaarheid passende is gezien de context waarin deze wordt ingezet. Zorg dat de verschillende afwegingen in de keuze voor het gebruik van een type algoritme worden vastgelegd.
  
-Er zijn veel technieken vindbaar om de werking en keuzes van een algoritme beter bloot te leggen. De techniek en de mate waarin uitlegbaarheid mogelijk is, is afhankelijk van het type algoritme waarvoor gekozen wordt. Onderstaande lijst geeft een aantal hulpmiddelen die handvatten bieden voor ontwikkelaars om de juiste methodes te vinden en toe te passen.
+Er zijn veel technieken vindbaar om de werking en keuzes van een algoritme beter bloot te leggen. De techniek en de mate waarin uitlegbaarheid mogelijk is, is afhankelijk van het type algoritme waarvoor gekozen wordt. Onderstaande lijst geeft handvatten bom de juiste methodes te vinden en toe te passen.
 
-|-----------------------------|
+|--------------------|
 |Tools voor design: UXAI: Design Strategy|
 |Toolkit voor implementatie: https://xaitk.org/| 
 |XAI as a service (IBM): https://research.ibm.com/blog/ai-explainability-360| 
