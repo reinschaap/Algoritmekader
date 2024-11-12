@@ -57,8 +57,7 @@ Algoritmekader
   
 ## Risico 
 <!-- vul hier het specifieke risico in dat kan worden gemitigeerd met behulp van deze maatregel -->
-Wanneer betrokken partijen en hun informatiebehoefte niet in kaart worden gebracht zal transparantie onvoldoende effectief zijn. 
-Daarnaast loop je het risico om een belangrijke partij over het hoofd te zien.
+Het risico is dat partijen niet of onvolledig worden geïnformeerd over de ontwikkeling en gebruik van algoritmes, en hierdoor hun rechten niet kunnen effectueren of belangen kenbaar kunnen maken.
 
 ## Voorbeeld
 <!-- Voeg hier een voorbeeld toe, door er bijvoorbeeld naar te verwijzen -->
